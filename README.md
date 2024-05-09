@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apalex&label=Profile%20views&color=0e75b6&style=flat" alt="apalex" /> </p>
 
-- 🌱 I’m currently learning **C# .Net Framework, Artificial Intelligence (GTP/LLM)**
+- 🌱 I’m currently learning **Artificial Intelligence (GTP/LLM)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apalex](https://github.com/apalex)
 
