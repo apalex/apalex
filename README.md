@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence (GTP/LLM)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/apalex](https://github.com/apalex)
-
 - 📫 How to reach me **https://www.linkedin.com/in/alexandre-pham-522633262/**
 
 <h3 align="left">Connect with me:</h3>
