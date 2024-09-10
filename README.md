@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apalex&label=Profile%20views&color=0e75b6&style=flat" alt="apalex" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence (GTP/LLM)**
+- 🌱 I’m currently learning **Artificial Intelligence (LLM)**
 
 - 📫 How to reach me **https://www.linkedin.com/in/alexandre-pham-522633262/**
 
